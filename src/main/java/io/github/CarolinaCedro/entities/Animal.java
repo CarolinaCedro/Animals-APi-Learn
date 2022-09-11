@@ -24,11 +24,4 @@ public class Animal {
     private String Cor;
     private Integer Idade;
 
-    public Animal(String nome, String especie, Double tamanho, String cor, Integer idade) {
-        Nome = nome;
-        Especie = especie;
-        Tamanho = tamanho;
-        Cor = cor;
-        Idade = idade;
-    }
 }
